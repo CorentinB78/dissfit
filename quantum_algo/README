@@ -1,0 +1,17 @@
+
+
+resonnant_model.py
+====================
+Hamiltonian for resonant model
+
+
+lindblad_noisy_algo.py
+========================
+
+Trotterization with barriers.
+
+
+correlation_circuit.py
+=========================
+
+does the Hadamard test by reusing the lindblad_noisy_algo.py routines
